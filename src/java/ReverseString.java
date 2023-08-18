@@ -3,7 +3,7 @@ public class ReverseString {
 
     int num = 1982, reversed = 0;
     
-    System.out.println("Original Number: " + num);
+    System.out.println("Original Number is : " + num);
 
     // run loop until num becomes 0
     while(num != 0) {
@@ -16,6 +16,6 @@ public class ReverseString {
       num /= 10;
     }
 
-    System.out.println("Reversed Number: " + reversed);
+    System.out.println("Reversed Number is : " + reversed);
   }
 }

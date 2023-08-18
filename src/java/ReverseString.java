@@ -1,7 +1,7 @@
 public class ReverseString {
 	public static void main(String[] args){
 
-    int num = 1982, reversed = 0;
+    int num = 1980, reversed = 0;
     
     System.out.println("Original Number is : " + num);
 
